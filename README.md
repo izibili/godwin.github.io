@@ -8,7 +8,7 @@ md_content = """# Godwin Izibili | Professional Portfolio
 
 ## About Me
 
-![Godwin Izibili](http://static.photos/technology/640x360/42)
+![Godwin Izibili](https://photos.app.goo.gl/hM3qbiR7cRvDB6odA)
 
 Enthusiastic educator and researcher with a multidisciplinary background in Information Technology, Business Administration, and Engineering. Experienced in teaching, curriculum development, and academic research.
 
@@ -153,9 +153,3 @@ Publication about the state and future of 3D printing technology in Nigeria.
 ---
 
 © 2025 Godwin Izibili. All rights reserved.
-"""
-path = "/mnt/data/godwin-izibili-portfolio.md"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(md_content)
-
-path
