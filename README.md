@@ -112,7 +112,7 @@ Mentored for the May and August boot camp edX program for graduates, assisting w
 *Jul 2023 – Aug 2023*
 
 **APWEN Town And Gown 3D Printing Training**  
-Facilitated the 3D printing training for young students and graduates organized by APWEN.  
+Facilitated the 3D printing training for young students and graduates, organized by APWEN.  
 *Nov 2020 – Dec 2020*
 
 **3D Printing in Nigeria**  
@@ -144,11 +144,6 @@ Publication about the state and future of 3D printing technology in Nigeria.
 **Email:** godwin.izibili@gmail.com  
 **Phone:** (620) 757-8528  
 **LinkedIn:** <https://www.linkedin.com/in/gizibili>
-
-**Send Me a Message** (sample fields):  
-- Name  
-- Email  
-- Message
 
 ---
 
